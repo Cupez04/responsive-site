@@ -362,3 +362,12 @@ header.sticky{
         transition: all .42 ease;
     }
 }
+@media (max-width :435px){
+    .main-home{
+        background-image: url(image/banner-3.png);
+        background-size: auto 300px;
+        background-repeat: no-repeat;
+        background-position: center center;
+        transition: all .42 ease;
+    }
+}
