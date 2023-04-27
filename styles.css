@@ -370,4 +370,7 @@ header.sticky{
         background-position: center center;
         transition: all .42 ease;
     }
+    section{
+        padding: 5% 8%;
+    }
 }
